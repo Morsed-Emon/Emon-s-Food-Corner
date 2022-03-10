@@ -1,0 +1,19 @@
+
+<html>
+<body>
+
+
+                	<h1> FEEDBACK FORM:</h1>
+                	<form action="feedback.php" method="POST">
+                    	<label><br>Please give your valuable feedback below : </br></label>
+                        <label>Name:</label><input name="name" type="text" />
+                        <label>Phone:</label><input name="phone" type="text" />
+                        <label>Email:</label><input name="email" type="text" />
+                        
+                        
+                        <label>Message:</label><textarea name="msg" cols="" rows=""></textarea>
+                        <input name="" type="submit" value="Submit" />
+                    </form>
+                 
+                 </body>
+				 </html>
